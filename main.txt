@@ -1,0 +1,10 @@
+- django-admin startproject projectname
+- cd projectname
+- python manage.py startapp appname
+- than write in installed apps your appname
+- make the bootstratp, popper, n jquery files.
+- register your app in settings.py
+- make base.html n navbar.html than make home.html after that we will make a style.css 
+- than make about.html after that keep change in views n urls
+- make contact.html
+- make forms.py file
